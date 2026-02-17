@@ -1,13 +1,9 @@
-# juhyun
+# About Me
 
 AI와 Backend 기술을 결합하여  
 실제 문제를 해결하는 서비스를 개발하는 백엔드 개발자입니다.
 
 RAG, LLM, Spring Boot, AWS 기반 서비스 구축에 관심이 있습니다.
-
----
-
-## About Me
 
 - Backend Developer (Spring Boot)
 - AI Backend (RAG, LangChain, LLM)
@@ -15,7 +11,7 @@ RAG, LLM, Spring Boot, AWS 기반 서비스 구축에 관심이 있습니다.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -87,7 +83,7 @@ https://github.com/JuhyunO/codepresso
 - 독서 모임 관리 기능
 - Spring Boot 기반 백엔드 개발 중
 
-https://github.com/JuhyunO/dokdok
+https://github.com/fc-de/dokdok-server
 
 ---
 
