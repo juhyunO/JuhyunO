@@ -64,7 +64,7 @@ AI 기반 Tistory 블로그 자동 작성 시스템
 - Airflow 기반 자동화 파이프라인 구축
 - RabbitMQ 기반 AI 작업 분산 처리
 
-https://github.com/JuhyunO/kernel_ocp
+[https://github.com/JuhyunO/kernel_ocp](https://github.com/kernel-ocp)
 
 ---
 
