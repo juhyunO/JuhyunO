@@ -18,10 +18,4 @@ RAG, LLM, Spring Boot, AWS 기반 서비스 구축에 관심이 있습니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuhyunO&layout=compact&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuhyunO&show_icons=true&theme=tokyonight)
-
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuhyunO&theme=tokyonight)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuhyunO&layout=compact&theme=tokyonight)
-
-![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuhyunO&theme=tokyonight)
